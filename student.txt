@@ -1,0 +1,13 @@
+hellooo bachhooo!!!!
+
+
+
+git init 
+
+git remote add origin uurrlll
+
+git add . 
+
+git push origin main 
+
+git comm 
